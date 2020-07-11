@@ -9,6 +9,6 @@ end
 end
 end
 
-def countdown_with_sleep(time)
+def timer_count(time)
  sleep 5
 end
