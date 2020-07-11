@@ -9,6 +9,7 @@ end
   if number == 0
   return "HAPPY NEW YEAR!"
 end
+end
 sleep 5
 end
 end
