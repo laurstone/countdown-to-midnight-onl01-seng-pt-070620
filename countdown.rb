@@ -9,6 +9,6 @@ if number == 0
 end 
 
 def countdown_with_sleep(number)
- runtime = Benchmark.measure (1.second)
+ sleep 5
 end
 end
